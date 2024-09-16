@@ -50,3 +50,6 @@ group :development do
   gem "web-console"
 end
 
+# Added gems:
+
+gem "tailwindcss-rails", "~> 2.7"
