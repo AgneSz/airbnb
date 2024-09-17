@@ -51,5 +51,5 @@ group :development do
 end
 
 # Added gems:
-
 gem "tailwindcss-rails", "~> 2.7"
+gem 'devise', '~> 4.9', '>= 4.9.3'
