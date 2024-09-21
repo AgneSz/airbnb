@@ -7,6 +7,6 @@ pin "@hotwired/stimulus-loading", to: "stimulus-loading.js"
 pin_all_from "app/javascript/controllers", under: "controllers"
 
 # Installed using:
-# ./bin/importmap 
+# ./bin/importmap
 # ./bin/importmap  pin el-transition
 pin "el-transition" # @0.0.7
